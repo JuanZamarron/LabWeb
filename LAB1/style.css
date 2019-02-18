@@ -1,0 +1,29 @@
+
+.box {
+    height: 100px;
+    width: 600px;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+h1{
+    color: silver;
+}
+
+h2{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
