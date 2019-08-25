@@ -1,29 +1,43 @@
-
-.box {
-    height: 100px;
-    width: 600px;
-}
-
-.right{
-    float: right;
-}
-
-.left{
-    float: left;
-}
-
 h1{
-    color: silver;
+    color: green;
+    border-bottom: 5px solid blue;
 }
 
-h2{
-    color: white;
-}
-
-li{
-    color: white;
-}
 
 body{
-    background-color: black;
+    background-color: lightgrey;
+}
+
+div {
+    display: flex;
+}
+
+.informacion {
+    border-bottom: 5px solid black;
+    background: purple;
+}
+
+.experiencia {
+    border-bottom: 5px solid black;
+    background: white;
+}
+
+.educacion {
+    border-bottom: 5px solid black;
+    background: yellow;
+}
+
+.idiomas {
+    border-bottom: 5px solid black;
+    background: purple;
+}
+
+.software {
+    border-bottom: 5px solid black;
+    background: white;
+}
+
+.actividades {
+    border-bottom: 5px solid black;
+    background: yellow;
 }
